@@ -1,4 +1,4 @@
-package testcases;
+package testcases.introduction;
 
 import org.junit.Test;
 import static io.restassured.RestAssured.*;
